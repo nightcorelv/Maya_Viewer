@@ -1,0 +1,74 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(5599,5): warning MSB3061: Unable to delete file "C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\x64\Debug\MayaAPI.mll". Access to the path 'C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\x64\Debug\MayaAPI.mll' is denied.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\liyey\desktop\mayaplugin\mayamll\x64\debug\mayaapi.mll' is denied.
+  Unload Maya plugin before building
+  mayaRun.cpp
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\TranformChanged.h(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\TranformChanged.h(32,25): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MDagPath::getAPathTo': The function signature was inconsistent with the rest of the API. Please use the other MDagPath::getAPathTo method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\TranformChanged.h(76,40): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MDagPath::getAPathTo': The function signature was inconsistent with the rest of the API. Please use the other MDagPath::getAPathTo method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshAdded.h(37,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshAdded.h(89,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshAdded.h(98,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshAdded.h(74,39): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshAdded.h(100,25): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MDagPath::getAPathTo': The function signature was inconsistent with the rest of the API. Please use the other MDagPath::getAPathTo method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(35,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(90,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(120,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(125,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(126,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(127,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(147,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(22,58): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\MeshChanged.h(74,40): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertAdded.h(23,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertAdded.h(48,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertAdded.h(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertAdded.h(15,31): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertAdded.h(29,33): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertAdded.h(40,32): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertAdded.h(51,31): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertAdded.h(65,35): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(93,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(118,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(129,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(202,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(227,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(238,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(85,32): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(99,34): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(110,33): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(121,32): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(135,36): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(155,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(156,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(157,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(194,32): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(208,34): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(219,33): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(230,32): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(244,36): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(264,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(265,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\LambertChanged.h(266,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(80,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(101,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(111,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(144,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(155,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(177,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(61,33): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(62,30): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(66,34): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(94,36): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(104,34): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(116,34): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(130,34): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(150,33): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(170,36): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\FileTextureChanged.h(183,34): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MFnDependencyNode::findPlug': Use the MFnDependencyNode::findPlug( const MString&, bool, MStatus* ) method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\CameraAdded.h(16,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\CameraAdded.h(23,24): warning C4996: 'Autodesk::Maya::OpenMaya20220000::MDagPath::getAPathTo': The function signature was inconsistent with the rest of the API. Please use the other MDagPath::getAPathTo method instead.
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\CameraChanged.h(36,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\z\Callbacks\NodeRemoved.h(24,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\x64\Debug\MayaAPI.lib and object C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\x64\Debug\MayaAPI.exp
+  MayaAPI.vcxproj -> C:\Users\liyey\Desktop\mayaPlugin\MayaMLL\x64\Debug\MayaAPI.mll
+  Load Plugin after build

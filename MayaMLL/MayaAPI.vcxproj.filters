@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="z\maya_includes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\NodeAdded.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\NodeNameChanged.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\TranformChanged.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\MeshChanged.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Console.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\CallbackHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\LambertChanged.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\FileTextureChanged.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\PointLightChanged.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\TransformAdded.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\MeshAdded.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\PointLightAdded.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\LambertAdded.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\FileTextureAdded.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\IterateDagNodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\IterateDependencyNodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\CameraAdded.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\CameraChanged.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\SharedMemory\ControlMemory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\SharedMemory\Mutex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\SharedMemory\SharedMemory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\SharedMemory\Writer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="z\Callbacks\NodeRemoved.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="z\mayaRun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="z\loadPlugin.py" />
+    <None Include="z\unloadPlugin.py" />
+  </ItemGroup>
+</Project>

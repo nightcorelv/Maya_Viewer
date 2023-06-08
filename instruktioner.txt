@@ -1,0 +1,14 @@
+Se till att ha installerat autodesk Maya 2020 eller nyare, Windows store verisonen av Python 3.0, och visual studio 2022.
+
+I MayaMll projektet i project settings ändra sökvägen i additional include directories för C/C++ och Linker så att den motsvarar
+den maya verison du har installerad och leder till lib i Mayas directory. Exempel: C:\Program Files\Autodesk\Maya2020\lib
+
+Öppna upp loadPlugin.py och ändra filsökvägen så att den leder till det fodral som har Maya.mll filen i MayaMLL projektet.
+Exempel: C:/Users/liyey/Desktop/mayaPlugin/MayaMLL/x64/Debug/MayaAPI.mll
+
+Öppna Maya och skriv in: commandPort -nr -name ":1234" i MEL command line.
+Klicka på Build i MayaMll projektet. Öppna nu MayaLinker projektet ock kör local windows debugger. 
+Du bör nu kunna lägga till/ändra objekt i maya scenen och få det att reflekteras i fönstret från  MayaMll projektet.
+
+
+Hoppas det funkar Patrik ;) Mvh grupp 2.
